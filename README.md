@@ -12,7 +12,7 @@ https://image.sinajs.cn/n/cn/dk/640x360xxfhd/sh601933.png<br>
 http://image.sinajs.cn/newchart/weekly/n/sh000001.gif[失效]<br>
 月K线查询：<br>
 https://image.sinajs.cn/newchart/monthly/n/sh601360.gif<br>
-#HK<br>
+<h1>HK</h1><br>
 分时线的查询：<br>
 http://image.sinajs.cn/newchart/hk_stock/min/09988.gif<br>
 日K线查询：<br>
