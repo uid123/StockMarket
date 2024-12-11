@@ -1,5 +1,5 @@
 # Stock market
-分时线的查询：
+分时线的查询：<br>
 http://image.sinajs.cn/newchart/min/n/sh000001.gif[失效]<br>
 http://image.sinajs.cn/newchart/min/n/sh600315.gif<br>
 https://image.sinajs.cn/newchart/min/n/nsh000001.gif<br>
