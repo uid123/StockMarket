@@ -1,3 +1,23 @@
-# test
-这是一个测试页面
-修改一下内容
+# Stock market
+分时线的查询：
+http://image.sinajs.cn/newchart/min/n/sh000001.gif[失效]
+http://image.sinajs.cn/newchart/min/n/sh600315.gif
+https://image.sinajs.cn/newchart/min/n/nsh000001.gif
+https://image.sinajs.cn/newchart/hollow/small/nsh601360.gif
+日K线查询：
+https://image.sinajs.cn/newchart/daily/n/sh000001.gif
+日K线查询：可以修改640x360尺寸
+https://image.sinajs.cn/n/cn/dk/640x360xxfhd/sh601933.png
+周K线查询：
+http://image.sinajs.cn/newchart/weekly/n/sh000001.gif[失效]
+月K线查询：
+https://image.sinajs.cn/newchart/monthly/n/sh601360.gif
+##HK
+分时线的查询：
+http://image.sinajs.cn/newchart/hk_stock/min/09988.gif
+日K线查询：
+http://image.sinajs.cn/newchart/hk_stock/daily/09988.gif
+周K线查询：
+http://image.sinajs.cn/newchart/hk_stock/weekly/09988.gif
+月K线查询：
+http://image.sinajs.cn/newchart/hk_stock/monthly/09988.gif
